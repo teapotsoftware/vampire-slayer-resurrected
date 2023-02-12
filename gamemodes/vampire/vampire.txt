@@ -1,0 +1,12 @@
+"vampire"
+{
+	"base"		"base"
+	"title"		"Vampire Slayer"
+	"maps"		"^vs_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+	}
+}

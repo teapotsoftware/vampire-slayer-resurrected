@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/brewstersmodels/simsbustinout/pooltable_overlord"
+	"$nocull" 1
+}

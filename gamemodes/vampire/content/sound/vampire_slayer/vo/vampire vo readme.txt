@@ -1,0 +1,1 @@
+duplicated channel w/ -5.0db gain and -36% pitch
